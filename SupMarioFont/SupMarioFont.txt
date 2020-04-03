@@ -1,0 +1,483 @@
+charcode  48 : 0 , 0
+  ###   
+ #  ##  
+##   ## 
+##   ## 
+##   ## 
+ ##  #  
+  ###   
+        
+
+charcode  49 : 10 , 0
+  ##   
+ ###   
+  ##   
+  ##   
+  ##   
+  ##   
+###### 
+       
+
+charcode  50 : 20 , 0
+ #####  
+##   ## 
+    ### 
+  ####  
+ ####   
+###     
+####### 
+        
+
+charcode  51 : 30 , 0
+ ###### 
+    ##  
+   ##   
+  ####  
+     ## 
+##   ## 
+ #####  
+        
+
+charcode  52 : 40 , 0
+   ###  
+  ####  
+ ## ##  
+##  ##  
+####### 
+    ##  
+    ##  
+        
+
+charcode  53 : 50 , 0
+######  
+##      
+######  
+     ## 
+     ## 
+##   ## 
+ #####  
+        
+
+charcode  54 : 60 , 0
+  ####  
+ ##     
+##      
+######  
+##   ## 
+##   ## 
+ #####  
+        
+
+charcode  55 : 70 , 0
+####### 
+##   ## 
+    ##  
+   ##   
+  ##    
+  ##    
+  ##    
+        
+
+charcode  56 : 80 , 0
+ ####   
+##   #  
+###  #  
+ ####   
+#    ## 
+#    ## 
+ #####  
+        
+
+charcode  57 : 90 , 0
+ #####  
+##   ## 
+##   ## 
+ ###### 
+     ## 
+    ##  
+ ####   
+        
+
+charcode  58 : 100 , 0
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  59 : 110 , 0
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  60 : 120 , 0
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  61 : 130 , 0
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  62 : 140 , 0
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  63 : 150 , 0
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  64 : 0 , 8
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  65 : 10 , 8
+  ##   
+  ##   
+ ####  
+ ####  
+###### 
+##  ## 
+##  ## 
+       
+
+charcode  66 : 20 , 8
+#####  
+##  ## 
+##  ## 
+#####  
+##  ## 
+##  ## 
+#####  
+       
+
+charcode  67 : 30 , 8
+  #### 
+ ##    
+##     
+##     
+##     
+ ##    
+  #### 
+       
+
+charcode  68 : 40 , 8
+####   
+## ##  
+##  ## 
+##  ## 
+##  ## 
+## ##  
+####   
+       
+
+charcode  69 : 50 , 8
+##### 
+##    
+##    
+####  
+##    
+##    
+##### 
+      
+
+charcode  70 : 60 , 8
+##### 
+##    
+##    
+####  
+##    
+##    
+##    
+      
+
+charcode  71 : 70 , 8
+  ##### 
+ ##     
+##      
+## #### 
+##   ## 
+ ##  ## 
+  ##### 
+        
+
+charcode  72 : 80 , 8
+##  ## 
+##  ## 
+##  ## 
+###### 
+##  ## 
+##  ## 
+##  ## 
+       
+
+charcode  73 : 90 , 8
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+   
+
+charcode  74 : 100 , 8
+   ## 
+   ## 
+   ## 
+   ## 
+   ## 
+   ## 
+####  
+      
+
+charcode  75 : 110 , 8
+##  ## 
+## ##  
+####   
+###    
+####   
+## ##  
+##  ## 
+       
+
+charcode  76 : 120 , 8
+##   
+##   
+##   
+##   
+##   
+##   
+#### 
+     
+
+charcode  77 : 130 , 8
+###  ### 
+###  ### 
+######## 
+######## 
+######## 
+## ## ## 
+## ## ## 
+         
+
+charcode  78 : 140 , 8
+### ## 
+### ## 
+###### 
+###### 
+## ### 
+## ### 
+##  ## 
+       
+
+charcode  79 : 150 , 8
+  ####   
+ ##  ##  
+##    ## 
+##    ## 
+##    ## 
+ ##  ##  
+  ####   
+         
+
+charcode  80 : 0 , 16
+#####  
+##  ## 
+##  ## 
+#####  
+##     
+##     
+##     
+       
+
+charcode  81 : 10 , 16
+  ####   
+ ##  ##  
+##    ## 
+##    ## 
+##    ## 
+ ##  ##  
+  ####   
+     ### 
+
+charcode  82 : 20 , 16
+#####  
+##  ## 
+##  ## 
+#####  
+## ##  
+##  ## 
+##  ## 
+       
+
+charcode  83 : 30 , 16
+ ##### 
+##     
+##     
+ ####  
+    ## 
+    ## 
+#####  
+       
+
+charcode  84 : 40 , 16
+###### 
+  ##   
+  ##   
+  ##   
+  ##   
+  ##   
+  ##   
+       
+
+charcode  85 : 50 , 16
+##  ## 
+##  ## 
+##  ## 
+##  ## 
+##  ## 
+##  ## 
+ ####  
+       
+
+charcode  86 : 60 , 16
+##  ## 
+##  ## 
+##  ## 
+ ####  
+ ####  
+  ##   
+  ##   
+       
+
+charcode  87 : 70 , 16
+##  ##  ##
+##  ##  ##
+ ######## 
+ ######## 
+ ######## 
+  ##  ##  
+  ##  ##  
+          
+
+charcode  88 : 80 , 16
+##  ## 
+##  ## 
+ ####  
+  ##   
+ ####  
+##  ## 
+##  ## 
+       
+
+charcode  89 : 90 , 16
+##  ## 
+##  ## 
+ ####  
+  ##   
+  ##   
+  ##   
+  ##   
+       
+
+charcode  90 : 100 , 16
+##### 
+   ## 
+  ##  
+ ##   
+##    
+##    
+##### 
+      
+
+charcode  91 : 110 , 16
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  92 : 120 , 16
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  93 : 130 , 16
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  94 : 140 , 16
+      
+      
+      
+      
+      
+      
+      
+      
+
+charcode  95 : 150 , 16
+      
+      
+      
+      
+      
+      
+      
+      
+
+var font = atob("OHyGgsJ8OAACQv7+AgIARs6emrryYgAEhpKy8t6MABg4aMj+/ggA5OaioqK+HAA8ftKSkp4MAMDAjp6w4MAAbPKykpJuDABg8pKSlvx4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4++Pg+DgD+/pKS/mwAOHzGgoKCAP7+gsZ8OAD+/pKSggD+/pCQgAA4fMaSkp6eAP7+EBD+/gD+/gACAgL+/AD+/jhsxoIA/v4CAgD+/vg+Pvj+/gD+/vA8/v4AOHzGgoLGfDgA/v6QkPBgADh8xoKCx305AP7+kJj+ZgBi8pKSnowAgID+/oCAAPz+AgL+/ADg+B4e+OAAwPg+Pvj4Pj74wMbuODjuxgDA4D4+4MAAjp6y4sIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+var widths = atob("CAcICAgICAgICAYGBgYGBgYHBwcHBgYIBwMGBwUJBwkHCQcHBwcHCgcHBgYGBgYG");
+g.setFontCustom(font, 48, widths, 8);
